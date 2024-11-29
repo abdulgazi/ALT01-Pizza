@@ -2,8 +2,6 @@
 
 ## Play
 
-You should be able to build your pizza at <https://altivities.earthiverse.ca/pizza/>
-
 ## About
 
 This is a simple "game" that you can use on a tablet (e.g. iPad) to make a pizza.

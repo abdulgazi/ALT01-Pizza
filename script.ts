@@ -45,7 +45,11 @@ const TOPPINGS: {
     {
         file: "images/shrimp.png",
         name: "shrimp"
+    },
+    {    file: "images/cheese.png",
+         name: "cheese"
     }
+    
 ]
 
 function randomIntFromInterval(min, max) {

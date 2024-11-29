@@ -7,7 +7,7 @@ const TOPPINGS: {
         name: "corn"
     },
     {
-        file: "images/green pepper.png",
+        file: "i_mages/green pepper.png",
         name: "green pepper"
     },
     {
